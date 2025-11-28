@@ -45,16 +45,7 @@ Apaixonado por tecnologia, desempenho, arquitetura limpa e soluções que geram 
 
 </div>
 
----
 
-### ⚙️ GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=watanalyst&show_icons=true&theme=react)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watanalyst&layout=compact&theme=react)
-
-</div>
 
 ---
 
