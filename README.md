@@ -1,49 +1,79 @@
-# 👋 Olá! Eu sou Weslley Anthony Tena  
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/watanalyst/watanalyst/blob/main/banner-github.png" width="100%" />
+</p>
 
-💻 **Desenvolvedor Full Stack PHP Pleno**  
-🚀 Experiência com **Laravel • Vue.js • TailwindCSS • JavaScript • Git • REST APIs**  
-📍 Londrina - PR, Brasil  
-
----
-
-### 👨‍💻 Sobre mim  
-Profissional de Tecnologia da Informação com ampla experiência como Analista de Sistemas e atualmente atuando como **Desenvolvedor Full Stack PHP**.  
-
-Sou reconhecido por minha organização, dedicação e habilidade em construir relacionamentos sólidos com equipes e clientes. Tenho facilidade de adaptação, aprendizado contínuo e foco em resultados práticos que otimizam processos e agregam valor ao negócio.  
+<h1 align="center">👋 Olá, eu sou Weslley Anthony Tena</h1>
+<h4 align="center">💻 Desenvolvedor Full Stack PHP | Laravel | Vue.js | TailwindCSS</h4>
 
 ---
 
-### 🚀 Tecnologias que utilizo
-
-#### Backend:
-- PHP | Laravel | PHP OOP | Composer | Scriptcase | REST APIs | DOMPDF
-
-#### Frontend:
-- Vue.js | JavaScript | Tailwind CSS | HTML5 | CSS3 | Axios
-
-#### Banco de Dados:
-- MySQL | Oracle | SQL Server | PostgreSQL
-
-#### Ferramentas & Outros:
-- Git & GitHub | Docker (iniciante) | Linux | Scrum | Kanban
+<!-- Botões de redes sociais -->
+<p align="center">
+  <a href="https://github.com/watanalyst" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/weslley-anthony-tena-466675181/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:wat.analyst@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 📂 Projetos em destaque
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
+<!-- Card Sobre mim -->
+<div align="center">
+
+🚀 Desenvolvedor Full Stack com experiência em **PHP, Laravel, Vue.js, TailwindCSS, Scriptcase, DOMPDF e APIs REST**.  
+Apaixonado por tecnologia, desempenho, arquitetura limpa e soluções que geram **valor real para o negócio**.  
+
+💡 Foco em escalabilidade, componentização, integração entre sistemas e automação de relatórios (PDF, Excel, APIs).
+
+</div>
+
+---
+
+### 🛠️ Stack Principal
+
+<div align="center">
+
+| Backend | Frontend | Banco de Dados | Ferramentas |
+|--------|----------|---------------|-------------|
+| PHP • Laravel • Scriptcase | Vue.js • TailwindCSS • JS | MySQL • Oracle • PostgreSQL | Git • Docker • DOMPDF |
+
+</div>
+
+---
+
+### ⚙️ GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=watanalyst&show_icons=true&theme=react)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watanalyst&layout=compact&theme=react)
+
+</div>
+
+---
+
+### 📌 Projetos em Destaque
+
+| Nome | Descrição | Tecnologias |
+|------|-----------|-------------|
 | ejagua-frontend-vue | Sistema web com autenticação, CRUD e UI responsiva | Vue.js, TailwindCSS |
-| API de Gestão de Clientes | API REST com autenticação JWT e ORM | Laravel, MySQL |
-| Dashboard Comercial | Relatórios, gráficos e filtros avançados | Vue.js, Chart.js |
-| Relatórios PDF personalizados | Geração de documentos PDF com templates dinâmicos | PHP, DOMPDF, Scriptcase |
+| Sistema de Clientes | API REST com autenticação JWT e ORM | Laravel, MySQL |
+| Automação de Relatórios | Geração dinâmica de PDFs personalizados | PHP, DOMPDF, Scriptcase |
 
 ---
 
-### 🌐 Onde me encontrar  
-📎 **LinkedIn:** https://www.linkedin.com/in/weslley-anthony-tena-466675181/  
-📧 **E-mail:** wat.analyst@gmail.com  
-📌 **GitHub:** https://github.com/watanalyst  
+### 🌐 Meus Contatos
+
+📎 LinkedIn: https://www.linkedin.com/in/weslley-anthony-tena-466675181/  
+📧 E-mail: **wat.analyst@gmail.com**  
+📌 GitHub: https://github.com/watanalyst  
 
 ---
 
-⭐ *Se gostou dos meus projetos, fique à vontade para deixar uma star!*
+⭐ *Curtiu? Me dê uma star e vamos conectar!*
