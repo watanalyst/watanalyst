@@ -37,7 +37,7 @@ Apaixonado por tecnologia, desempenho, arquitetura limpa e soluções que geram 
 
 ### 🛠️ Stack Principal
 
-<div align="center">
+<div align="left">
 
 | Backend | Frontend | Banco de Dados | Ferramentas |
 |--------|----------|---------------|-------------|
