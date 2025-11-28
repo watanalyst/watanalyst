@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor Full Stack PHP Pleno**  
 🚀 Experiência com **Laravel • Vue.js • TailwindCSS • JavaScript • Git • REST APIs**  
-📍 São Paulo, Brasil  
+📍 Londrina-PR, Brasil  
 
 ---
 
@@ -40,7 +40,7 @@ Sou reconhecido por minha organização, dedicação e habilidade em construir r
 
 ### 🌐 Onde me encontrar  
 📎 **LinkedIn:** https://www.linkedin.com/in/weslley-anthony-tena-466675181/  
-📧 **E-mail:** weslley.tena@gmail.com  
+📧 **E-mail:** wat.analyst@gmail.com  
 📌 **GitHub:** https://github.com/watanalyst  
 
 ---
