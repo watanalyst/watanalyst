@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor Full Stack PHP Pleno**  
 🚀 Experiência com **Laravel • Vue.js • TailwindCSS • JavaScript • Git • REST APIs**  
-📍 Londrina-PR, Brasil  
+📍 Londrina - PR, Brasil  
 
 ---
 
@@ -16,7 +16,7 @@ Sou reconhecido por minha organização, dedicação e habilidade em construir r
 ### 🚀 Tecnologias que utilizo
 
 #### Backend:
-- PHP | Laravel | PHP OOP | Composer | REST APIs
+- PHP | Laravel | PHP OOP | Composer | Scriptcase | REST APIs | DOMPDF
 
 #### Frontend:
 - Vue.js | JavaScript | Tailwind CSS | HTML5 | CSS3 | Axios
@@ -35,6 +35,7 @@ Sou reconhecido por minha organização, dedicação e habilidade em construir r
 | ejagua-frontend-vue | Sistema web com autenticação, CRUD e UI responsiva | Vue.js, TailwindCSS |
 | API de Gestão de Clientes | API REST com autenticação JWT e ORM | Laravel, MySQL |
 | Dashboard Comercial | Relatórios, gráficos e filtros avançados | Vue.js, Chart.js |
+| Relatórios PDF personalizados | Geração de documentos PDF com templates dinâmicos | PHP, DOMPDF, Scriptcase |
 
 ---
 
